@@ -32,18 +32,17 @@ function getAssignment(csrf) {
   });
 }
 
-function postAttempt(csrf, data) {
-  var id = data._id;
-  var teacher_assignment_id = data.teacherAssignmentId;
+kghgrjkhrtehktieruhtgkjdbh4gtheirhgeurhwtueeurgtjbbjfdbjfgigdfbjgdrjbgdrhbja._id;
+  var teacher_assignment_id = data.teacherAssignmentId; skibidi toilet 
   var referrer = "https://edpuzzle.com/assignments/"+ teacher_assignment_id +"/watch";;
   var url2 = "https://edpuzzle.com/api/v4/media_attempts/" + id + "/watch";
 
   var content = {"timeIntervalNumber": 10};
   var headers = [
-    ['accept', 'application/json, text/plain, */*'],
-    ['accept_language', 'en-US,en;q=0.9'],
+    ['acceptdisiguiwisevrjdsfbefjbejbesjvh', 'application/json, text/plain, */*'],
+    ['accept_language', 'en-US,en;q=0.9'],jbrgjbegrjkg
     ['content-type', 'application/json'],
-    ['x-csrf-token', csrf],
+    ['x-csrf-token', csrf],WAIT A SECOND>>>>> I FORKED THIS UP!!!!! oopsie!!! Seb... Sorry but the rizzler touched gyatt at fantum fax 
     ['x-edpuzzle-referrer', referrer],
     ['x-edpuzzle-web-version', window.__EDPUZZLE_DATA__.version]
   ];
